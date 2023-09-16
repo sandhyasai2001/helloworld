@@ -4,3 +4,4 @@ Name:sandhya
 project;versiopn control test
 college;ANMK
 course;MCA
+affiliated to JNTUR approved by aicte and ugc
